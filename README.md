@@ -1,12 +1,8 @@
 # LensHub
-╔══════════════════════════════════════════════════════════════╗
-║               LENSHUB STUDIO — QUICK START GUIDE            ║
-║                    Exhibit Studios © 2026                    ║
-╚══════════════════════════════════════════════════════════════╝
+LENSHUB STUDIO — QUICK START GUIDE
+Exhibit Studios © 2026             
 
-═══════════════════════════════════════════════════════════════
-  REQUIREMENTS
-═══════════════════════════════════════════════════════════════
+REQUIREMENTS
 
   • Windows 10 or 11 (Recommended) for the Companion app, 
     Director console, and streaming software (OBS/vMix).
@@ -15,8 +11,8 @@
     Camera / Director.
 
 ═══════════════════════════════════════════════════════════════
-  USING THE PWA (iOS / Browser)
-═══════════════════════════════════════════════════════════════
+USING THE PWA (iOS / Browser)
+
 
   For both SWITCHER and CAMERA roles on iOS or desktop browsers:
 
@@ -73,6 +69,7 @@
 
   For support, contact Exhibit Studios. 
   +233 (0) 24 834 3007 | [wwww.frivans@gmail.com]
+  
  GET THE PRO VERSION AND STAY AWAY FROM THE WATERMARKS!!!
 
 ═══════════════════════════════════════════════════════════════
